@@ -40,7 +40,7 @@
   CUDA, TensorFlow, PyTorch — all fair game.
 
 ~ echo $STATUS
-  ● open to opportunities  ·  Dhaka, Bangladesh
+  ● open to opportunities  ·  Dhaka, Bangladesh or Remote
 ```
 
 ---
