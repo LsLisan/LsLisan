@@ -201,10 +201,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ● available for work  ·  Dhaka, Bangladesh  ·  2025        ║
-║  📱 Flutter apps · 🤖 ML models · ⚡ GPU computing          ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ● available for work  ·  Dhaka, Bangladesh or Remote ·  2025    ║
+║  📱 Flutter apps · 🤖 ML models · ⚡ GPU computing              ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=80&section=footer" width="100%"/>
