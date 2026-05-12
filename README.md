@@ -127,7 +127,8 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=LsLisan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=c084fc&fire=ff6b6b&currStreakLabel=6c63ff&border_radius=10" />
+<!-- ✅ FIXED: switched to herokuapp endpoint which updates in real-time -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LsLisan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=c084fc&fire=ff6b6b&currStreakLabel=6c63ff&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
