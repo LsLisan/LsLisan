@@ -135,13 +135,32 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&ring_color=6c63ff" height="175"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&ring_color=6c63ff&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="175"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10&langs_count=8" height="175"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LsLisan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=c084fc&fire=ff6b6b&currStreakLabel=6c63ff&sideLabels=c084fc&dates=8884aa&border_radius=10&date_format=j%20M%5B%20Y%5D" width="49%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LsLisan&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&layout=compact&langs_count=6" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LsLisan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=c084fc&fire=ff6b6b&currStreakLabel=6c63ff&border_radius=10&date_format=j%20M%5B%20Y%5D" />
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%"/>
+
+<br/>
+
+<!-- Detailed activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LsLisan&theme=tokyo-night&bg_color=0d1117&color=6c63ff&line=c084fc&point=38bdf8&area=true&hide_border=true&area_color=6c63ff&custom_title=Contribution%20Graph%20—%20LsLisan" width="100%"/>
 
 </div>
 
