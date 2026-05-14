@@ -194,6 +194,37 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
+<!--               COMPETITIVE PROGRAMMING                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// competitive programming`
+
+<div align="center">
+
+<!-- LeetCode Stats -->
+<a href="https://leetcode.com/u/Lisan00/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Lisan00?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10&bgcolor=0d1117&color=6c63ff" alt="LeetCode Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Codeforces Stats -->
+<a href="https://codeforces.com/profile/Lisan-5026" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Lisan-5026&theme=dark&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_color=6c63ff&disable_animations=false&show_icons=true" alt="Codeforces Stats" />
+</a>
+
+<br/><br/>
+
+<!-- Platform Badges -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Lisan00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lisan00/)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-Lisan--5026-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lisan-5026)&nbsp;
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-MD.LisanIslam-2E9E5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBIMDV2LTJoMnYyeiIvPjwvc3ZnPg==&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/MD.LisanIslam)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--                       CONNECT                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -202,7 +233,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lslisan/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LsLisan)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LsLisan)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lisan00/)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lisan-5026)&nbsp;
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-%232E9E5B.svg?style=for-the-badge&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/MD.LisanIslam)
 
 </div>
 
