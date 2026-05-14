@@ -157,10 +157,6 @@
 <!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%"/>
 
-<br/>
-
-<!-- Detailed activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LsLisan&theme=tokyo-night&bg_color=0d1117&color=6c63ff&line=c084fc&point=38bdf8&area=true&hide_border=true&area_color=6c63ff&custom_title=Contribution%20Graph%20—%20LsLisan" width="100%"/>
 
 </div>
 
