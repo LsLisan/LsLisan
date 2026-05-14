@@ -4,17 +4,18 @@
 <!--                      HERO SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD.%20Lisan%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=16&descColor=c084fc" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=MD.+Lisan+Islam" alt="Name" />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+AI+%2F+ML+Engineer;Building+apps+that+ship+to+production+%F0%9F%93%B1;Training+models+that+actually+work+%F0%9F%A4%96;CUDA+%C2%B7+TensorFlow+%C2%B7+PyTorch+%C2%B7+Dart" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+apps+that+ship+to+production+%F0%9F%93%B1;Training+models+that+actually+work+%F0%9F%A4%96;CUDA+%C2%B7+TensorFlow+%C2%B7+PyTorch+%C2%B7+Dart;Open+to+Opportunities+%F0%9F%8C%8F" alt="Roles" />
 
 <br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=38bdf8)](https://flutter.dev)&nbsp;
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-c084fc?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![AI Engineer](https://img.shields.io/badge/AI_Engineer-6c63ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/LsLisan)
+[![AI Engineer](https://img.shields.io/badge/AI_Engineer-6c63ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/LsLisan)&nbsp;
+[![Status](https://img.shields.io/badge/●_Open_to_Work-4ade80?style=flat-square&logoColor=white)](https://github.com/LsLisan)
 
 <br/>
 
@@ -103,13 +104,26 @@
 
 ### `// proficiency`
 
-| Skill | Level | Bar |
+<div align="center">
+
+| Skill | Level | Progress |
 |:---|:---:|:---|
-| 📱 Flutter / Dart | **92%** | `█████████▒` |
-| 🐍 Python / ML Frameworks | **88%** | `████████▒▒` |
-| 🔥 Firebase / Backend | **82%** | `████████▒▒` |
-| ⚡ Deep Learning / CUDA | **78%** | `███████▒▒▒` |
-| ⚙️ C / C++ / Systems | **70%** | `███████▒▒▒` |
+| 📱 Flutter / Dart | **92%** | ![92%](https://img.shields.io/badge/■■■■■■■■■□-92%25-02569B?style=flat-square&labelColor=0d1117&color=38bdf8) |
+| 🐍 Python / ML Frameworks | **88%** | ![88%](https://img.shields.io/badge/■■■■■■■■□□-88%25-3670A0?style=flat-square&labelColor=0d1117&color=c084fc) |
+| 🔥 Firebase / Backend | **82%** | ![82%](https://img.shields.io/badge/■■■■■■■■□□-82%25-039BE5?style=flat-square&labelColor=0d1117&color=4ade80) |
+| ⚡ Deep Learning / CUDA | **78%** | ![78%](https://img.shields.io/badge/■■■■■■■□□□-78%25-EE4C2C?style=flat-square&labelColor=0d1117&color=ff6b6b) |
+| ⚙️ C / C++ / Systems | **70%** | ![70%](https://img.shields.io/badge/■■■■■■■□□□-70%25-00599C?style=flat-square&labelColor=0d1117&color=facc15) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Skill bars via anuraghazra stats — rendered as SVG, GitHub-safe -->
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,firebase,cpp,c,java,mysql&theme=dark&perline=10" />
+
+</div>
 
 ---
 
@@ -121,13 +135,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&ring_color=6c63ff" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10" height="175"/>
 
 <br/><br/>
 
-<!-- ✅ FIXED: switched to herokuapp endpoint which updates in real-time -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LsLisan&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c63ff&ring=c084fc&fire=ff6b6b&currStreakLabel=6c63ff&border_radius=10&date_format=j%20M%5B%20Y%5D" />
 
 </div>
@@ -142,7 +155,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LsLisan&theme=tokyo-night&bg_color=0d1117&color=6c63ff&line=c084fc&point=38bdf8&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LsLisan&theme=tokyo-night&bg_color=0d1117&color=6c63ff&line=c084fc&point=38bdf8&area=true&hide_border=true&area_color=6c63ff" width="100%"/>
 
 </div>
 
@@ -208,6 +221,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
