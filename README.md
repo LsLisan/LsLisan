@@ -4,21 +4,27 @@
 <!--                      HERO SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD.%20Lisan%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=16&descColor=c084fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c63ff,100:c084fc&height=200&section=header&text=MD.%20Lisan%20Islam&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=17&descColor=c084fc" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+apps+that+ship+to+production+%F0%9F%93%B1;Training+models+that+actually+work+%F0%9F%A4%96;CUDA+%C2%B7+TensorFlow+%C2%B7+PyTorch+%C2%B7+Dart;Researching+AI+for+Agriculture+%F0%9F%8C%BF;Open+to+Opportunities+%F0%9F%8C%8F" alt="Roles" />
+<!-- Status pill -->
+![Status](https://img.shields.io/badge/●%20AVAILABLE%20FOR%20WORK-4ade80?style=for-the-badge&logoColor=white&labelColor=0d1117)
 
-<br/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+apps+that+ship+to+production+%F0%9F%93%B1;Training+models+that+actually+work+%F0%9F%A4%96;CUDA+%C2%B7+TensorFlow+%C2%B7+PyTorch+%C2%B7+Dart;Researching+AI+for+Agriculture+%F0%9F%8C%BF;Open+to+Opportunities+%F0%9F%8C%8F" alt="Roles" />
+
+<br/><br/>
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=38bdf8)](https://flutter.dev)&nbsp;
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-c084fc?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/LsLisan)&nbsp;
 [![AI Engineer](https://img.shields.io/badge/AI_Engineer-6c63ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/LsLisan)&nbsp;
 [![Researcher](https://img.shields.io/badge/Researcher-4ade80?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![Status](https://img.shields.io/badge/●_Open_to_Work-4ade80?style=flat-square&logoColor=white)](https://github.com/LsLisan)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/LsLisan)&nbsp;
+[![Location](https://img.shields.io/badge/📍%20Dhaka%2C%20Bangladesh-30363d?style=flat-square&logoColor=white)](https://github.com/LsLisan)
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lslisan/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LsLisan)&nbsp;
@@ -33,16 +39,19 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ```bash
-~ whoami
+╭─ lisan@ai-workstation ~ 
+╰─$ whoami
   lisan_islam · github.com/LsLisan
 
-~ cat about.txt
+╭─ lisan@ai-workstation ~
+╰─$ cat about.txt
   Building cross-platform apps with Flutter.
   Training models that actually ship to production.
   Researching AI applications in agriculture & plant pathology.
   CUDA, TensorFlow, PyTorch — all fair game.
 
-~ echo $STATUS
+╭─ lisan@ai-workstation ~
+╰─$ echo $STATUS
   ● open to opportunities  ·  Dhaka, Bangladesh or Remote
 ```
 
@@ -56,7 +65,41 @@
 
 <div align="center">
 
-> Applying deep learning and computer vision to real-world agricultural challenges — from plant disease detection to sustainable farming AI.
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/🌿-AGRI%20AI-4ade80?style=for-the-badge&labelColor=0d1117" />
+    </td>
+    <td>
+      Applying <b>deep learning</b> and <b>computer vision</b> to real-world agricultural challenges — from plant disease detection to sustainable farming AI.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--               NEURAL NETWORK VISUALIZATION                -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// model architecture`
+
+<div align="center">
+
+```
+  INPUT LAYER        HIDDEN LAYERS         OUTPUT LAYER
+  ───────────    ──────────────────────    ────────────
+
+    [IMG]  ──►  [Conv2D] ──► [MaxPool]
+      │         [Conv2D] ──► [MaxPool]  ──► [Dense]
+    [DATA] ──►  [BatchNorm]              ──► [Softmax]  ──► 🌿 Prediction
+      │         [Dropout]               ──► [Dense]
+   [FEAT]  ──►  [LSTM]   ──► [Attn]
+
+  Framework: PyTorch / TensorFlow   Accel: CUDA GPU
+```
 
 </div>
 
@@ -67,6 +110,8 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ### `// publications & datasets`
+
+<div align="center">
 
 #### 📦 Datasets
 
@@ -85,29 +130,35 @@
     <tr>
       <td><b>Carambola Leaf Disease Dataset</b></td>
       <td>1,274 images of <i>Averrhoa carambola</i> (starfruit) leaves across 7 disease/health categories, collected from agricultural sites in Bangladesh. Supports ML-based plant health monitoring and disease detection.</td>
-      <td>1,274 images · 7 classes</td>
+      <td><b>1,274 images · 7 classes</b></td>
       <td>Daffodil International University</td>
       <td><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/CC%20BY%204.0-4ade80?style=flat-square&logoColor=white"/></a></td>
-      <td><a href="https://data.mendeley.com/datasets/jn857kmcnf/1"><img src="https://img.shields.io/badge/Mendeley_Data-DOI_10.17632/jn857kmcnf.1-6c63ff?style=flat-square&logo=mendeley&logoColor=white"/></a></td>
+      <td><a href="https://data.mendeley.com/datasets/jn857kmcnf/1"><img src="https://img.shields.io/badge/Mendeley_Data-DOI_10.17632%2Fjn857kmcnf.1-6c63ff?style=flat-square&logo=mendeley&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
 
+</div>
+
 <details>
-<summary><b>Dataset Details — Carambola Leaf Disease</b></summary>
+<summary><b>📊 Dataset Details — Carambola Leaf Disease</b></summary>
 
 <br/>
 
-| Category | Images |
-|:---|:---:|
-| 🟢 Healthy | 329 |
-| 🟤 Algal Leaf Spot | 324 |
-| 🟡 Iron Deficiency | 189 |
-| 🔴 Insect Pest | 189 |
-| 🟠 Old Leaves | 158 |
-| 🔵 Leaf Curl Virus | 67 |
-| 🍊 Fruits | 18 |
-| **Total** | **1,274** |
+<div align="center">
+
+| Category | Images | Distribution |
+|:---|:---:|:---|
+| 🟢 Healthy | 329 | `████████████████░░░░` 25.8% |
+| 🟤 Algal Leaf Spot | 324 | `███████████████░░░░░` 25.4% |
+| 🟡 Iron Deficiency | 189 | `█████████░░░░░░░░░░░` 14.8% |
+| 🔴 Insect Pest | 189 | `█████████░░░░░░░░░░░` 14.8% |
+| 🟠 Old Leaves | 158 | `███████░░░░░░░░░░░░░` 12.4% |
+| 🔵 Leaf Curl Virus | 67 | `███░░░░░░░░░░░░░░░░░` 5.3% |
+| 🍊 Fruits | 18 | `█░░░░░░░░░░░░░░░░░░░` 1.4% |
+| **Total** | **1,274** | **100%** |
+
+</div>
 
 **Published:** 13 November 2024 · **Version:** 1 · **DOI:** [`10.17632/jn857kmcnf.1`](https://doi.org/10.17632/jn857kmcnf.1)
 
@@ -117,13 +168,15 @@
 
 <br/>
 
+<div align="center">
+
 #### 📄 Papers
 
-> 🚧 Papers coming soon — check back here or follow on [LinkedIn](https://www.linkedin.com/in/lslisan/) for updates.
+![Coming Soon](https://img.shields.io/badge/🚧%20Papers-COMING%20SOON-6c63ff?style=for-the-badge&labelColor=0d1117)
 
-<!-- PAPER TEMPLATE (uncomment and fill when ready):
-| **Paper Title** | *Conference/Journal Name* | Year | [PDF](#) · [Code](#) · [BibTeX](#) |
--->
+> Follow on [LinkedIn](https://www.linkedin.com/in/lslisan/) for updates.
+
+</div>
 
 ---
 
@@ -151,7 +204,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 **🗄️ Backend & Databases**
 
@@ -175,6 +228,10 @@
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
 ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
 
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,firebase,cpp,c,java,mysql&theme=dark&perline=10" />
+
 </div>
 
 ---
@@ -194,14 +251,6 @@
 | 🔥 Firebase / Backend | **82%** | ![82%](https://img.shields.io/badge/■■■■■■■■□□-82%25-039BE5?style=flat-square&labelColor=0d1117&color=4ade80) |
 | ⚡ Deep Learning / CUDA | **78%** | ![78%](https://img.shields.io/badge/■■■■■■■□□□-78%25-EE4C2C?style=flat-square&labelColor=0d1117&color=ff6b6b) |
 | ⚙️ C / C++ / Systems | **70%** | ![70%](https://img.shields.io/badge/■■■■■■■□□□-70%25-00599C?style=flat-square&labelColor=0d1117&color=facc15) |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,firebase,cpp,c,java,mysql&theme=dark&perline=10" />
 
 </div>
 
@@ -269,24 +318,6 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY THINKING                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-### `// currently thinking`
-
-> *"Any sufficiently advanced technology is indistinguishable from magic — so I build magic."*
->
-> — **LsLisan**, 2025
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--               COMPETITIVE PROGRAMMING                     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -309,6 +340,28 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Lisan00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lisan00/)&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-Lisan--5026-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lisan-5026)&nbsp;
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-MD.LisanIslam-2E9E5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBIMDV2LTJoMnYyeiIvPjwvc3ZnPg==&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/MD.LisanIslam)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                   CURRENTLY THINKING                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// currently thinking`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  "Any sufficiently advanced technology is indistinguishable     │
+│   from magic — so I build magic."                               │
+│                                               — LsLisan, 2025   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -346,6 +399,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6c63ff,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
