@@ -4,35 +4,24 @@
 <!--                      HERO SECTION                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a2e,60:6c63ff,100:c084fc&height=220&section=header&text=MD.%20Lisan%20Islam&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descAlignY=60&descSize=18&descColor=c084fc&stroke=6c63ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MD.%20Lisan%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Researcher&descAlignY=58&descSize=16&descColor=c084fc" width="100%"/>
 
 <br/>
 
-<!-- Animated status -->
-<a href="https://github.com/LsLisan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=13&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=400&lines=●+OPEN+TO+WORK+·+Dhaka%2C+Bangladesh+or+Remote" alt="Status"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+apps+that+ship+to+production+%F0%9F%93%B1;Training+models+that+actually+work+%F0%9F%A4%96;CUDA+%C2%B7+TensorFlow+%C2%B7+PyTorch+%C2%B7+Dart;Researching+AI+for+Agriculture+%F0%9F%8C%BF;Open+to+Opportunities+%F0%9F%8C%8F" alt="Roles" />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=🧠+Building+AI+that+solves+real+problems;📱+Flutter+apps+that+ship+to+production;⚡+CUDA+·+PyTorch+·+TensorFlow+·+Dart;🌿+AI+%2F+CV+Research+for+Agriculture;🔬+Plant+Disease+Detection+%26+Pathology;🚀+Open+to+Opportunities+Worldwide" alt="Roles" />
-
-<br/><br/>
-
-<!-- Role badges -->
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=38bdf8)](https://flutter.dev)&nbsp;
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/LsLisan)&nbsp;
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-c084fc?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/LsLisan)&nbsp;
 [![AI Engineer](https://img.shields.io/badge/AI_Engineer-6c63ff?style=flat-square&logo=openai&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/LsLisan)&nbsp;
 [![Researcher](https://img.shields.io/badge/Researcher-4ade80?style=flat-square&logo=googlescholar&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![Location](https://img.shields.io/badge/📍_Dhaka,_Bangladesh-30363d?style=flat-square)](https://github.com/LsLisan)
+[![Status](https://img.shields.io/badge/●_Open_to_Work-4ade80?style=flat-square&logoColor=white)](https://github.com/LsLisan)
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lslisan/)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![Mendeley](https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white)](https://data.mendeley.com/datasets/jn857kmcnf/1)&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=LsLisan&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS)](https://github.com/LsLisan)
 
 </div>
@@ -43,70 +32,19 @@
 <!--                    TERMINAL BLOCK                         -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-```python
-# lisan@ai-workstation — Python 3.11 | CUDA 12.x | PyTorch 2.x
->>>  import lisan
+```bash
+~ whoami
+  lisan_islam · github.com/LsLisan
 
->>> lisan.whoami()
-{
-  "name"     : "MD. Lisan Islam",
-  "alias"    : "LsLisan",
-  "role"     : ["Flutter Developer", "AI/ML Engineer", "Researcher"],
-  "location" : "Dhaka, Bangladesh  |  Remote-Ready",
-  "focus"    : ["Computer Vision", "Plant Pathology AI", "Mobile Apps"],
-  "stack"    : ["PyTorch", "TensorFlow", "CUDA", "Flutter", "Dart"],
-}
+~ cat about.txt
+  Building cross-platform apps with Flutter.
+  Training models that actually ship to production.
+  Researching AI applications in agriculture & plant pathology.
+  CUDA, TensorFlow, PyTorch — all fair game.
 
->>> lisan.status()
-  ● open_to_work = True
-  ● availability = "Full-time / Contract / Research Collaboration"
+~ echo $STATUS
+  ● open to opportunities  ·  Dhaka, Bangladesh or Remote
 ```
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--              3D NEURAL NETWORK (SVG ISOMETRIC)            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-### `// neural architecture · 3D`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=4&section=header" width="100%"/>
-
-```
-                    ┌─────────────────────────────────────────────────────────┐
-                    │            PLANT DISEASE DETECTION MODEL                │
-                    │              CNN + Attention · CUDA Accelerated          │
-                    └─────────────────────────────────────────────────────────┘
-
-   INPUT (224×224)     ENCODER BACKBONE        ATTENTION        CLASSIFIER
-   ════════════════   ══════════════════════   ═════════════   ═════════════
-
-        🖼️              ╔══════════════╗
-    [Leaf Image]  ───►  ║  Conv2D 64   ║ ──►  ┌──────────┐
-        │               ║  BatchNorm   ║      │ Channel  │
-    [Metadata]    ───►  ║  ReLU + Pool ║      │Attention │ ──►  ╔══════════╗
-        │               ╚══════════════╝      │  (CBAM)  │      ║ FC 1024  ║
-    [Augmented]         ╔══════════════╗      └──────────┘      ║ Dropout  ║
-                   ───► ║  Conv2D 128  ║ ──►  ┌──────────┐      ║ Softmax  ║ ──► 🌿
-                        ║  BatchNorm   ║      │ Spatial  │      ╚══════════╝
-                        ║  ReLU + Pool ║      │Attention │        7 Classes
-                        ╚══════════════╝      └──────────┘
-                        ╔══════════════╗
-                        ║  Conv2D 256  ║ ──►  ┌──────────┐    ┌────────────────┐
-                        ║  BatchNorm   ║      │  Global  │    │  🟢 Healthy    │
-                        ║  ReLU + Pool ║      │ Avg Pool │    │  🟤 Algal Spot │
-                        ╚══════════════╝      └──────────┘    │  🟡 Iron Def.  │
-                        ╔══════════════╗                       │  🔴 Insect     │
-                        ║  Conv2D 512  ║                       │  🟠 Old Leaves │
-                        ║  ResBlock×3  ║                       │  🔵 Leaf Curl  │
-                        ╚══════════════╝                       │  🍊 Fruits     │
-                                                               └────────────────┘
-   Optimizer: AdamW  │  Loss: CrossEntropy + LabelSmooth  │  Accel: CUDA GPU
-```
-
-</div>
 
 ---
 
@@ -118,14 +56,7 @@
 
 <div align="center">
 
-|  Domain | Focus | Methods |
-|:---|:---|:---|
-| 🌿 **Agri AI** | Plant disease detection & classification | CNN, Vision Transformers, Transfer Learning |
-| 🔬 **Plant Pathology** | Leaf disease in Bangladeshi crops | Image Segmentation, Data Augmentation |
-| 📱 **Edge AI** | On-device ML inference via Flutter | TFLite, ONNX, Model Quantization |
-| 🗂️ **Dataset Curation** | Benchmark datasets for agricultural ML | Field data collection, Annotation |
-
-> *Applying deep learning and computer vision to real-world agricultural challenges — from plant disease detection to sustainable farming AI.*
+> Applying deep learning and computer vision to real-world agricultural challenges — from plant disease detection to sustainable farming AI.
 
 </div>
 
@@ -136,8 +67,6 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ### `// publications & datasets`
-
-<div align="center">
 
 #### 📦 Datasets
 
@@ -156,60 +85,45 @@
     <tr>
       <td><b>Carambola Leaf Disease Dataset</b></td>
       <td>1,274 images of <i>Averrhoa carambola</i> (starfruit) leaves across 7 disease/health categories, collected from agricultural sites in Bangladesh. Supports ML-based plant health monitoring and disease detection.</td>
-      <td><b>1,274 images · 7 classes</b></td>
+      <td>1,274 images · 7 classes</td>
       <td>Daffodil International University</td>
       <td><a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/CC%20BY%204.0-4ade80?style=flat-square&logoColor=white"/></a></td>
-      <td><a href="https://data.mendeley.com/datasets/jn857kmcnf/1"><img src="https://img.shields.io/badge/Mendeley_Data-DOI_10.17632%2Fjn857kmcnf.1-6c63ff?style=flat-square&logo=mendeley&logoColor=white"/></a></td>
+      <td><a href="https://data.mendeley.com/datasets/jn857kmcnf/1"><img src="https://img.shields.io/badge/Mendeley_Data-DOI_10.17632/jn857kmcnf.1-6c63ff?style=flat-square&logo=mendeley&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
 
-</div>
-
 <details>
-<summary><b>📊 Dataset Details — Carambola Leaf Disease (click to expand)</b></summary>
+<summary><b>Dataset Details — Carambola Leaf Disease</b></summary>
 
 <br/>
 
-<div align="center">
+| Category | Images |
+|:---|:---:|
+| 🟢 Healthy | 329 |
+| 🟤 Algal Leaf Spot | 324 |
+| 🟡 Iron Deficiency | 189 |
+| 🔴 Insect Pest | 189 |
+| 🟠 Old Leaves | 158 |
+| 🔵 Leaf Curl Virus | 67 |
+| 🍊 Fruits | 18 |
+| **Total** | **1,274** |
 
-```
-  CLASS DISTRIBUTION  ─────────────────────────────────────────────────────
+**Published:** 13 November 2024 · **Version:** 1 · **DOI:** [`10.17632/jn857kmcnf.1`](https://doi.org/10.17632/jn857kmcnf.1)
 
-  🟢 Healthy        ████████████████████░░░░  329 images  (25.8%)
-  🟤 Algal Leaf Spot ███████████████████░░░░░  324 images  (25.4%)
-  🟡 Iron Deficiency ██████████████░░░░░░░░░░  189 images  (14.8%)
-  🔴 Insect Pest     ██████████████░░░░░░░░░░  189 images  (14.8%)
-  🟠 Old Leaves      ████████████░░░░░░░░░░░░  158 images  (12.4%)
-  🔵 Leaf Curl Virus █████░░░░░░░░░░░░░░░░░░░   67 images  ( 5.3%)
-  🍊 Fruits          ██░░░░░░░░░░░░░░░░░░░░░░   18 images  ( 1.4%)
-                     ─────────────────────────────────────────────
-  📦 TOTAL           ████████████████████████ 1274 images  (100%)
-```
-
-</div>
-
-| Field | Value |
-|:---|:---|
-| **Published** | 13 November 2024 |
-| **Version** | 1 |
-| **DOI** | [`10.17632/jn857kmcnf.1`](https://doi.org/10.17632/jn857kmcnf.1) |
-| **Contributors** | MD. Lisan Islam, Mayen Uddin Mojumdar |
-| **Collection Site** | Agricultural fields, Bangladesh |
-| **License** | CC BY 4.0 |
+**Contributors:** MD. Lisan Islam, Mayen Uddin Mojumdar
 
 </details>
 
 <br/>
 
-<div align="center">
-
 #### 📄 Papers
 
-![Coming Soon](https://img.shields.io/badge/🚧_Papers-COMING_SOON-6c63ff?style=for-the-badge&labelColor=0d1117)&nbsp;
-[![Follow Updates](https://img.shields.io/badge/Follow_Updates-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lslisan/)
+> 🚧 Papers coming soon — check back here or follow on [LinkedIn](https://www.linkedin.com/in/lslisan/) for updates.
 
-</div>
+<!-- PAPER TEMPLATE (uncomment and fill when ready):
+| **Paper Title** | *Conference/Journal Name* | Year | [PDF](#) · [Code](#) · [BibTeX](#) |
+-->
 
 ---
 
@@ -231,15 +145,13 @@
 **🤖 AI / ML / Deep Learning**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
 **🗄️ Backend & Databases**
 
@@ -256,17 +168,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **🌐 Networking & Security**
 
 ![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
 ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,firebase,cpp,c,java,mysql,opencv,linux,docker,git&theme=dark&perline=7" />
 
 </div>
 
@@ -280,24 +187,21 @@
 
 <div align="center">
 
-```
-  SKILL PROFICIENCY  ─────────────────────────────────────────── LEVEL
-
-  📱 Flutter / Dart      ██████████████████████████████████████░░  92%
-  🐍 Python / ML         ████████████████████████████████████░░░░  88%
-  🔥 Firebase / Backend  ████████████████████████████████░░░░░░░░  82%
-  ⚡ Deep Learning/CUDA  ██████████████████████████████░░░░░░░░░░  78%
-  ⚙️ C / C++ / Systems   ████████████████████████████░░░░░░░░░░░░  70%
-  🔬 Computer Vision     ██████████████████████████░░░░░░░░░░░░░░  65%
-```
-
-| Skill | Level | Badge |
+| Skill | Level | Progress |
 |:---|:---:|:---|
 | 📱 Flutter / Dart | **92%** | ![92%](https://img.shields.io/badge/■■■■■■■■■□-92%25-02569B?style=flat-square&labelColor=0d1117&color=38bdf8) |
 | 🐍 Python / ML Frameworks | **88%** | ![88%](https://img.shields.io/badge/■■■■■■■■□□-88%25-3670A0?style=flat-square&labelColor=0d1117&color=c084fc) |
 | 🔥 Firebase / Backend | **82%** | ![82%](https://img.shields.io/badge/■■■■■■■■□□-82%25-039BE5?style=flat-square&labelColor=0d1117&color=4ade80) |
 | ⚡ Deep Learning / CUDA | **78%** | ![78%](https://img.shields.io/badge/■■■■■■■□□□-78%25-EE4C2C?style=flat-square&labelColor=0d1117&color=ff6b6b) |
 | ⚙️ C / C++ / Systems | **70%** | ![70%](https://img.shields.io/badge/■■■■■■■□□□-70%25-00599C?style=flat-square&labelColor=0d1117&color=facc15) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,pytorch,tensorflow,firebase,cpp,c,java,mysql&theme=dark&perline=10" />
 
 </div>
 
@@ -365,6 +269,24 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
+<!--                   CURRENTLY THINKING                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// currently thinking`
+
+> *"Any sufficiently advanced technology is indistinguishable from magic — so I build magic."*
+>
+> — **LsLisan**, 2025
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--               COMPETITIVE PROGRAMMING                     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -387,30 +309,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Lisan00-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lisan00/)&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-Lisan--5026-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lisan-5026)&nbsp;
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-MD.LisanIslam-2E9E5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBIMDV2LTJoMnYyeiIvPjwvc3ZnPg==&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/MD.LisanIslam)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY THINKING                      -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-### `// currently thinking`
-
-<div align="center">
-
-```
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║                                                                      ║
-  ║   "Any sufficiently advanced technology is indistinguishable         ║
-  ║    from magic — so I build magic."                                   ║
-  ║                                                                      ║
-  ║                                                     — LsLisan, 2025  ║
-  ╚══════════════════════════════════════════════════════════════════════╝
-```
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -442,13 +340,12 @@
 <div align="center">
 
 ```
-  ╔════════════════════════════════════════════════════════════════════╗
-  ║  ● available for work  ·  Dhaka, Bangladesh or Remote  ·  2025     ║
-  ║  📱 Flutter apps  ·  🤖 ML models  ·  ⚡ GPU compute  ·  🔬 Research ║
-  ║  🌿 Agri AI  ·  🧠 Deep Learning  ·  📊 Published Datasets          ║
-  ╚════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ● available for work  ·  Dhaka, Bangladesh or Remote ·  2025    ║
+║  📱 Flutter apps · 🤖 ML models · ⚡ GPU computing · 🔬 Research ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c084fc,40:6c63ff,100:0d1117&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
