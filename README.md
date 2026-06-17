@@ -395,6 +395,97 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
+<!--               ARCADE: RETRO ASCII SNAKE                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// the arcade`
+
+<div align="center">
+
+<details>
+<summary>🕹️ <b>insert coin — click for a round of ASCII Snake</b></summary>
+
+<br/>
+
+```
+┌──────────────────────────────────────────┐
+│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░▓▓░░░░░░░░░░░░░🍎░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░▓▓░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░░░▓▓░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
+└──────────────────────────────────────────┘
+   SCORE: 0042        HIGH SCORE: ∞ (it's me)
+```
+
+> GitHub strips `<script>` tags from READMEs, so this snake is permanently frozen mid-game — forever one bite away from the apple. A bit like most of my side projects. 😄
+
+**Want the real, fully playable version?** Here's one I like, opens in a new tab: [Play ASCII Snake](https://playsnake.io/)
+
+</details>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  QUIZ: GUESS THE DEV                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// pop quiz`
+
+<div align="center">
+
+> Think you know me? Tap each question to reveal the answer.
+
+<details>
+<summary>🧩 <b>Q1. What's the most common error in my git history?</b></summary>
+<br/>
+
+`fatal: refusing to merge unrelated histories` — happens more than I'd like to admit. 😅
+
+</details>
+
+<details>
+<summary>🧩 <b>Q2. Flutter or native — which would I choose for a new app?</b></summary>
+<br/>
+
+Flutter, every time. One codebase, both platforms, and Dart hot reload spoils you fast.
+
+</details>
+
+<details>
+<summary>🧩 <b>Q3. CPU or GPU — which one do I talk to more?</b></summary>
+<br/>
+
+GPU. Training models means CUDA is basically a second home.
+
+</details>
+
+<details>
+<summary>🧩 <b>Q4. What's growing in my research garden right now?</b></summary>
+<br/>
+
+Plant disease detection — currently teaching machines to spot a sick carambola leaf faster than I can. 🌿
+
+</details>
+
+<details>
+<summary>🧩 <b>Q5. Coffee or tea while debugging at 2 AM?</b></summary>
+<br/>
+
+Neither — usually candy. Which is exactly why there's a jar hidden below. 🍬
+
+</details>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--                  EASTER EGG: CANDY JAR 🍬                 -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
