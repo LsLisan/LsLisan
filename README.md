@@ -129,6 +129,53 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+### `// featured projects`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 Project Name One</h3>
+      <p align="center">
+        One or two lines describing what this Flutter app or ML project does and the problem it solves.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-4ade80?style=flat-square&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Project Name Two</h3>
+      <p align="center">
+        One or two lines describing the model, the dataset used, and the achieved accuracy or outcome.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=76B900"/>
+      </p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/Live_Demo-4ade80?style=flat-square&logoColor=white"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<sub>💡 Swap in your real project names, descriptions, and links — placeholders above so the layout is ready to go.</sub>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                           -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -316,19 +363,67 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                             -->
+<!--                  GUESTBOOK / VISITOR MESSAGES             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-### `// connect`
+### `// guestbook`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lslisan/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LsLisan)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Lisan00/)&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Lisan-5026)&nbsp;
-[![Mendeley](https://img.shields.io/badge/Mendeley-%239D1620.svg?style=for-the-badge&logo=mendeley&logoColor=white)](https://data.mendeley.com/datasets/jn857kmcnf/1)&nbsp;
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-%232E9E5B.svg?style=for-the-badge&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/MD.LisanIslam)
+> Drop a message, say hi, or just let me know you stopped by 👋
+
+<a href="https://github.com/LsLisan/LsLisan/issues/new?title=Guestbook+Entry&body=Leave+your+message+here!" target="_blank">
+  <img src="https://img.shields.io/badge/✍️_Sign_the_Guestbook-6c63ff?style=for-the-badge&logoColor=white"/>
+</a>
+
+<sub>Click above to open an issue on this repo — that becomes your guestbook entry. Powered by <a href="https://github.com/apps/utterances">utterances</a> or plain GitHub Issues, your choice.</sub>
+
+<br/><br/>
+
+<!-- Optional: embed utterances comments widget directly (requires GitHub App install)
+<script src="https://utteranc.es/client.js"
+        repo="LsLisan/LsLisan"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+-->
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                  EASTER EGG: CANDY JAR 🍬                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<details>
+<summary>🍬 <b>psst — found a candy jar, click to open</b></summary>
+
+<br/>
+
+```
+   🍬   🍭   🍬   🍫   🍡   🍬   🍭
+        ╔══════════════════╗
+        ║   THANKS FOR      ║
+        ║   SCROLLING THIS  ║
+        ║   FAR! HAVE A 🍬  ║
+        ╚══════════════════╝
+   🍫   🍬   🍡   🍭   🍬   🍫   🍬
+```
+
+🎉 **Achievement unlocked:** *Sweet Tooth Scroller*
+
+You found the hidden stash. Here's a tiny fortune cookie for the road:
+
+> 🥠 *"Your next `git push` will compile on the first try."*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjE1Y2Y4NzhjMTEzZWRhMzg5ODBjZGNkMmJjMTk0YjFhNTQ1NWMxNmI5ZA/3o6Mb7QbpUNHRZcrh6/giphy.gif" width="200"/>
+
+</details>
 
 </div>
 
