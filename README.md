@@ -218,11 +218,11 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&ring_color=6c63ff&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="175"/>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=LsLisan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&icon_color=c084fc&border_radius=10&ring_color=6c63ff&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10&langs_count=8" height="175"/>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LsLisan&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=6c63ff&text_color=8884aa&border_radius=10&langs_count=8" width="100%"/>
     </td>
   </tr>
 </table>
