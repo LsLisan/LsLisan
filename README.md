@@ -241,7 +241,7 @@
 
 ### 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" width="100%"/>
 
 <br/><br/>
 
