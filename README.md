@@ -216,6 +216,10 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GitHub+Stats+%26+Activity;Always+shipping%2C+always+learning" alt="Typing SVG" />
+
+<br/><br/>
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -235,10 +239,23 @@
 
 <br/><br/>
 
+<!-- Activity graph — shows commit activity as a live line chart -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LsLisan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=6c63ff&point=ffffff&area=true&area_color=6c63ff" width="100%"/>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="100%"/>
 
-</div>
+<br/><br/>
 
+<!-- Contribution snake — animated, eats your contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LsLisan/LsLisan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LsLisan/LsLisan/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LsLisan/LsLisan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
