@@ -239,11 +239,11 @@
 
 <br/><br/>
 
-### 🏆 Trophy Case
+## 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" width="100%"/>
-
-<br/><br/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LsLisan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%" />
+</p>
 
 <!-- Your existing contribution graph goes here -->
 
